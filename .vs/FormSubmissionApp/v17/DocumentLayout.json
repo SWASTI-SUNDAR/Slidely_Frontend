@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D01D023-CEA2-44EB-99FC-61B57AD73B69}|FormSubmissionApp\\FormSubmissionApp.vbproj|C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\formsubmissionapp\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2D01D023-CEA2-44EB-99FC-61B57AD73B69}|FormSubmissionApp\\FormSubmissionApp.vbproj|solutionrelative:formsubmissionapp\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D01D023-CEA2-44EB-99FC-61B57AD73B69}|FormSubmissionApp\\FormSubmissionApp.vbproj|C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\formsubmissionapp\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2D01D023-CEA2-44EB-99FC-61B57AD73B69}|FormSubmissionApp\\FormSubmissionApp.vbproj|solutionrelative:formsubmissionapp\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D01D023-CEA2-44EB-99FC-61B57AD73B69}|FormSubmissionApp\\FormSubmissionApp.vbproj|c:\\users\\swast\\source\\repos\\formsubmissionapp\\formsubmissionapp\\createsubmissionform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2D01D023-CEA2-44EB-99FC-61B57AD73B69}|FormSubmissionApp\\FormSubmissionApp.vbproj|solutionrelative:formsubmissionapp\\createsubmissionform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D01D023-CEA2-44EB-99FC-61B57AD73B69}|FormSubmissionApp\\FormSubmissionApp.vbproj|C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\formsubmissionapp\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2D01D023-CEA2-44EB-99FC-61B57AD73B69}|FormSubmissionApp\\FormSubmissionApp.vbproj|solutionrelative:formsubmissionapp\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D01D023-CEA2-44EB-99FC-61B57AD73B69}|FormSubmissionApp\\FormSubmissionApp.vbproj|C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\formsubmissionapp\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2D01D023-CEA2-44EB-99FC-61B57AD73B69}|FormSubmissionApp\\FormSubmissionApp.vbproj|solutionrelative:formsubmissionapp\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D01D023-CEA2-44EB-99FC-61B57AD73B69}|FormSubmissionApp\\FormSubmissionApp.vbproj|C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\formsubmissionapp\\viewsubmissionsform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{2D01D023-CEA2-44EB-99FC-61B57AD73B69}|FormSubmissionApp\\FormSubmissionApp.vbproj|solutionrelative:formsubmissionapp\\viewsubmissionsform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D01D023-CEA2-44EB-99FC-61B57AD73B69}|FormSubmissionApp\\FormSubmissionApp.vbproj|C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\formsubmissionapp\\viewsubmissionsform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2D01D023-CEA2-44EB-99FC-61B57AD73B69}|FormSubmissionApp\\FormSubmissionApp.vbproj|solutionrelative:formsubmissionapp\\viewsubmissionsform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D01D023-CEA2-44EB-99FC-61B57AD73B69}|FormSubmissionApp\\FormSubmissionApp.vbproj|c:\\users\\swast\\source\\repos\\formsubmissionapp\\formsubmissionapp\\editsubmissionform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2D01D023-CEA2-44EB-99FC-61B57AD73B69}|FormSubmissionApp\\FormSubmissionApp.vbproj|solutionrelative:formsubmissionapp\\editsubmissionform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D01D023-CEA2-44EB-99FC-61B57AD73B69}|FormSubmissionApp\\FormSubmissionApp.vbproj|C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\formsubmissionapp\\editsubmissionform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{2D01D023-CEA2-44EB-99FC-61B57AD73B69}|FormSubmissionApp\\FormSubmissionApp.vbproj|solutionrelative:formsubmissionapp\\editsubmissionform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D01D023-CEA2-44EB-99FC-61B57AD73B69}|FormSubmissionApp\\FormSubmissionApp.vbproj|C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\formsubmissionapp\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{2D01D023-CEA2-44EB-99FC-61B57AD73B69}|FormSubmissionApp\\FormSubmissionApp.vbproj|solutionrelative:formsubmissionapp\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D01D023-CEA2-44EB-99FC-61B57AD73B69}|FormSubmissionApp\\FormSubmissionApp.vbproj|C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\formsubmissionapp\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2D01D023-CEA2-44EB-99FC-61B57AD73B69}|FormSubmissionApp\\FormSubmissionApp.vbproj|solutionrelative:formsubmissionapp\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D01D023-CEA2-44EB-99FC-61B57AD73B69}|FormSubmissionApp\\FormSubmissionApp.vbproj|C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\formsubmissionapp\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2D01D023-CEA2-44EB-99FC-61B57AD73B69}|FormSubmissionApp\\FormSubmissionApp.vbproj|solutionrelative:formsubmissionapp\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D01D023-CEA2-44EB-99FC-61B57AD73B69}|FormSubmissionApp\\FormSubmissionApp.vbproj|C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\formsubmissionapp\\searchform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2D01D023-CEA2-44EB-99FC-61B57AD73B69}|FormSubmissionApp\\FormSubmissionApp.vbproj|solutionrelative:formsubmissionapp\\searchform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D01D023-CEA2-44EB-99FC-61B57AD73B69}|FormSubmissionApp\\FormSubmissionApp.vbproj|C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\formsubmissionapp\\editsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2D01D023-CEA2-44EB-99FC-61B57AD73B69}|FormSubmissionApp\\FormSubmissionApp.vbproj|solutionrelative:formsubmissionapp\\editsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D01D023-CEA2-44EB-99FC-61B57AD73B69}|FormSubmissionApp\\FormSubmissionApp.vbproj|C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\formsubmissionapp\\editsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2D01D023-CEA2-44EB-99FC-61B57AD73B69}|FormSubmissionApp\\FormSubmissionApp.vbproj|solutionrelative:formsubmissionapp\\editsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D01D023-CEA2-44EB-99FC-61B57AD73B69}|FormSubmissionApp\\FormSubmissionApp.vbproj|C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\formsubmissionapp\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2D01D023-CEA2-44EB-99FC-61B57AD73B69}|FormSubmissionApp\\FormSubmissionApp.vbproj|solutionrelative:formsubmissionapp\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D01D023-CEA2-44EB-99FC-61B57AD73B69}|FormSubmissionApp\\FormSubmissionApp.vbproj|C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\formsubmissionapp\\searchform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2D01D023-CEA2-44EB-99FC-61B57AD73B69}|FormSubmissionApp\\FormSubmissionApp.vbproj|solutionrelative:formsubmissionapp\\searchform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swast\\AppData\\Local\\Temp\\.vsdbgsrc\\9c7647de9fc76b002b48578decd4ede3f354978d9001e6e1c848704628e4198b\\Control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateSubmissionForm.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\FormSubmissionApp\\CreateSubmissionForm.Designer.vb",
+              "RelativeDocumentMoniker": "FormSubmissionApp\\CreateSubmissionForm.Designer.vb",
+              "ToolTip": "C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\FormSubmissionApp\\CreateSubmissionForm.Designer.vb",
+              "RelativeToolTip": "FormSubmissionApp\\CreateSubmissionForm.Designer.vb",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T16:28:06.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditSubmissionForm.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\FormSubmissionApp\\EditSubmissionForm.Designer.vb",
+              "RelativeDocumentMoniker": "FormSubmissionApp\\EditSubmissionForm.Designer.vb",
+              "ToolTip": "C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\FormSubmissionApp\\EditSubmissionForm.Designer.vb",
+              "RelativeToolTip": "FormSubmissionApp\\EditSubmissionForm.Designer.vb",
+              "ViewState": "AQIAAAEAAAAAAAAAAAA6wAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T16:17:34.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditSubmissionForm.resx",
+              "DocumentMoniker": "C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\FormSubmissionApp\\EditSubmissionForm.resx",
+              "RelativeDocumentMoniker": "FormSubmissionApp\\EditSubmissionForm.resx",
+              "ToolTip": "C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\FormSubmissionApp\\EditSubmissionForm.resx",
+              "RelativeToolTip": "FormSubmissionApp\\EditSubmissionForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-19T16:17:34.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewSubmissionsForm.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\FormSubmissionApp\\ViewSubmissionsForm.Designer.vb",
+              "RelativeDocumentMoniker": "FormSubmissionApp\\ViewSubmissionsForm.Designer.vb",
+              "ToolTip": "C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\FormSubmissionApp\\ViewSubmissionsForm.Designer.vb",
+              "RelativeToolTip": "FormSubmissionApp\\ViewSubmissionsForm.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T16:17:34.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewSubmissionsForm.resx",
+              "DocumentMoniker": "C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\FormSubmissionApp\\ViewSubmissionsForm.resx",
+              "RelativeDocumentMoniker": "FormSubmissionApp\\ViewSubmissionsForm.resx",
+              "ToolTip": "C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\FormSubmissionApp\\ViewSubmissionsForm.resx",
+              "RelativeToolTip": "FormSubmissionApp\\ViewSubmissionsForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-19T16:17:34.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\FormSubmissionApp\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "FormSubmissionApp\\Form1.Designer.vb",
+              "ToolTip": "C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\FormSubmissionApp\\Form1.Designer.vb",
+              "RelativeToolTip": "FormSubmissionApp\\Form1.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T16:17:34.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\FormSubmissionApp\\Form1.resx",
+              "RelativeDocumentMoniker": "FormSubmissionApp\\Form1.resx",
+              "ToolTip": "C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\FormSubmissionApp\\Form1.resx",
+              "RelativeToolTip": "FormSubmissionApp\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-19T16:17:33.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Control.cs",
+              "DocumentMoniker": "C:\\Users\\swast\\AppData\\Local\\Temp\\.vsdbgsrc\\9c7647de9fc76b002b48578decd4ede3f354978d9001e6e1c848704628e4198b\\Control.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\9c7647de9fc76b002b48578decd4ede3f354978d9001e6e1c848704628e4198b\\Control.cs",
+              "ToolTip": "C:\\Users\\swast\\AppData\\Local\\Temp\\.vsdbgsrc\\9c7647de9fc76b002b48578decd4ede3f354978d9001e6e1c848704628e4198b\\Control.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\9c7647de9fc76b002b48578decd4ede3f354978d9001e6e1c848704628e4198b\\Control.cs",
+              "ViewState": "AQIAAF8qAAAAAAAAAAAowGMqAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:59:21.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SearchForm.vb",
+              "DocumentMoniker": "C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\FormSubmissionApp\\SearchForm.vb",
+              "RelativeDocumentMoniker": "FormSubmissionApp\\SearchForm.vb",
+              "ToolTip": "C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\FormSubmissionApp\\SearchForm.vb",
+              "RelativeToolTip": "FormSubmissionApp\\SearchForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T10:32:54.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SearchForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\FormSubmissionApp\\SearchForm.vb",
+              "RelativeDocumentMoniker": "FormSubmissionApp\\SearchForm.vb",
+              "ToolTip": "C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\FormSubmissionApp\\SearchForm.vb [Design]",
+              "RelativeToolTip": "FormSubmissionApp\\SearchForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T10:32:08.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditSubmissionForm.vb",
+              "DocumentMoniker": "C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\FormSubmissionApp\\EditSubmissionForm.vb",
+              "RelativeDocumentMoniker": "FormSubmissionApp\\EditSubmissionForm.vb",
+              "ToolTip": "C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\FormSubmissionApp\\EditSubmissionForm.vb",
+              "RelativeToolTip": "FormSubmissionApp\\EditSubmissionForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T10:23:18.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditSubmissionForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\FormSubmissionApp\\EditSubmissionForm.vb",
+              "RelativeDocumentMoniker": "FormSubmissionApp\\EditSubmissionForm.vb",
+              "ToolTip": "C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\FormSubmissionApp\\EditSubmissionForm.vb [Design]",
+              "RelativeToolTip": "FormSubmissionApp\\EditSubmissionForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T10:22:02.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewSubmissionsForm.vb",
+              "DocumentMoniker": "C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\FormSubmissionApp\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "FormSubmissionApp\\ViewSubmissionsForm.vb",
+              "ToolTip": "C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\FormSubmissionApp\\ViewSubmissionsForm.vb",
+              "RelativeToolTip": "FormSubmissionApp\\ViewSubmissionsForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T05:15:34.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\FormSubmissionApp\\Form1.vb",
+              "RelativeDocumentMoniker": "FormSubmissionApp\\Form1.vb",
+              "ToolTip": "C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\FormSubmissionApp\\Form1.vb*",
+              "RelativeToolTip": "FormSubmissionApp\\Form1.vb*",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA9wBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T05:04:45.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateSubmissionForm.vb",
+              "DocumentMoniker": "C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\FormSubmissionApp\\CreateSubmissionForm.vb",
+              "RelativeDocumentMoniker": "FormSubmissionApp\\CreateSubmissionForm.vb",
+              "ToolTip": "C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\FormSubmissionApp\\CreateSubmissionForm.vb",
+              "RelativeToolTip": "FormSubmissionApp\\CreateSubmissionForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T09:02:37.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViewSubmissionsForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\FormSubmissionApp\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "FormSubmissionApp\\ViewSubmissionsForm.vb",
+              "ToolTip": "C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\FormSubmissionApp\\ViewSubmissionsForm.vb [Design]",
+              "RelativeToolTip": "FormSubmissionApp\\ViewSubmissionsForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T04:48:46.466Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\FormSubmissionApp\\Form1.vb",
+              "RelativeDocumentMoniker": "FormSubmissionApp\\Form1.vb",
+              "ToolTip": "C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\FormSubmissionApp\\Form1.vb [Design]*",
+              "RelativeToolTip": "FormSubmissionApp\\Form1.vb [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T04:38:45.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateSubmissionForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\FormSubmissionApp\\CreateSubmissionForm.vb",
+              "RelativeDocumentMoniker": "FormSubmissionApp\\CreateSubmissionForm.vb",
+              "ToolTip": "C:\\Users\\swast\\source\\repos\\FormSubmissionApp\\FormSubmissionApp\\CreateSubmissionForm.vb [Design]",
+              "RelativeToolTip": "FormSubmissionApp\\CreateSubmissionForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T04:50:06.289Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
