@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class CreateSubmissionForm
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,7 +20,7 @@ Partial Class CreateSubmissionForm
     'NOTE: The following procedure is required by the Windows Form Designer
     'It can be modified using the Windows Form Designer.  
     'Do not modify it using the code editor.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Me.btnToggleStopwatch = New System.Windows.Forms.Button()
         Me.btnSubmit = New System.Windows.Forms.Button()
@@ -34,25 +34,32 @@ Partial Class CreateSubmissionForm
         Me.Label4 = New System.Windows.Forms.Label()
         Me.Label5 = New System.Windows.Forms.Label()
         Me.txtStopwatch = New System.Windows.Forms.TextBox()
+        Me.Label6 = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'btnToggleStopwatch
         '
-        Me.btnToggleStopwatch.Location = New System.Drawing.Point(78, 331)
+        Me.btnToggleStopwatch.BackColor = System.Drawing.Color.MediumSeaGreen
+        Me.btnToggleStopwatch.Font = New System.Drawing.Font("Arial", 7.0!, System.Drawing.FontStyle.Bold)
+        Me.btnToggleStopwatch.ForeColor = System.Drawing.Color.White
+        Me.btnToggleStopwatch.Location = New System.Drawing.Point(97, 315)
         Me.btnToggleStopwatch.Name = "btnToggleStopwatch"
         Me.btnToggleStopwatch.Size = New System.Drawing.Size(262, 54)
         Me.btnToggleStopwatch.TabIndex = 0
-        Me.btnToggleStopwatch.Text = "Toggle Stopwatch (Ctrl + T)"
-        Me.btnToggleStopwatch.UseVisualStyleBackColor = True
+        Me.btnToggleStopwatch.Text = "TOGGLE STOPWATCH (CTRL + T)"
+        Me.btnToggleStopwatch.UseVisualStyleBackColor = False
         '
         'btnSubmit
         '
-        Me.btnSubmit.Location = New System.Drawing.Point(474, 331)
+        Me.btnSubmit.BackColor = System.Drawing.Color.DodgerBlue
+        Me.btnSubmit.Font = New System.Drawing.Font("Arial", 7.0!, System.Drawing.FontStyle.Bold)
+        Me.btnSubmit.ForeColor = System.Drawing.Color.White
+        Me.btnSubmit.Location = New System.Drawing.Point(491, 315)
         Me.btnSubmit.Name = "btnSubmit"
         Me.btnSubmit.Size = New System.Drawing.Size(177, 54)
         Me.btnSubmit.TabIndex = 1
-        Me.btnSubmit.Text = "Submit (Ctrl + S)"
-        Me.btnSubmit.UseVisualStyleBackColor = True
+        Me.btnSubmit.Text = "SUBMIT (CTRL + S)"
+        Me.btnSubmit.UseVisualStyleBackColor = False
         '
         'txtGithub
         '
@@ -112,11 +119,11 @@ Partial Class CreateSubmissionForm
         'Label4
         '
         Me.Label4.AutoSize = True
-        Me.Label4.Location = New System.Drawing.Point(295, 217)
+        Me.Label4.Location = New System.Drawing.Point(261, 218)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(45, 16)
+        Me.Label4.Size = New System.Drawing.Size(72, 16)
         Me.Label4.TabIndex = 9
-        Me.Label4.Text = "Github"
+        Me.Label4.Text = "Github Link"
         '
         'Label5
         '
@@ -134,11 +141,22 @@ Partial Class CreateSubmissionForm
         Me.txtStopwatch.Size = New System.Drawing.Size(139, 22)
         Me.txtStopwatch.TabIndex = 11
         '
+        'Label6
+        '
+        Me.Label6.AutoSize = True
+        Me.Label6.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.0!, System.Drawing.FontStyle.Bold)
+        Me.Label6.Location = New System.Drawing.Point(303, 0)
+        Me.Label6.Name = "Label6"
+        Me.Label6.Size = New System.Drawing.Size(209, 29)
+        Me.Label6.TabIndex = 12
+        Me.Label6.Text = "New Submission"
+        '
         'CreateSubmissionForm
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(790, 482)
+        Me.ClientSize = New System.Drawing.Size(908, 482)
+        Me.Controls.Add(Me.Label6)
         Me.Controls.Add(Me.txtStopwatch)
         Me.Controls.Add(Me.Label5)
         Me.Controls.Add(Me.Label4)
@@ -152,7 +170,7 @@ Partial Class CreateSubmissionForm
         Me.Controls.Add(Me.btnSubmit)
         Me.Controls.Add(Me.btnToggleStopwatch)
         Me.Name = "CreateSubmissionForm"
-        Me.Text = "CreateSubmissionForm"
+        Me.Text = "Create Submission Form"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -170,4 +188,5 @@ Partial Class CreateSubmissionForm
     Friend WithEvents Label4 As Label
     Friend WithEvents Label5 As Label
     Friend WithEvents txtStopwatch As TextBox
+    Friend WithEvents Label6 As Label
 End Class

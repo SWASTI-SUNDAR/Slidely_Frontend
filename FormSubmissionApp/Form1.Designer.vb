@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class Form1
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,7 +20,7 @@ Partial Class Form1
     'NOTE: The following procedure is required by the Windows Form Designer
     'It can be modified using the Windows Form Designer.  
     'Do not modify it using the code editor.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Me.btnViewSubmissions = New System.Windows.Forms.Button()
         Me.btnCreateSubmission = New System.Windows.Forms.Button()
@@ -32,6 +32,8 @@ Partial Class Form1
         'btnViewSubmissions
         '
         Me.btnViewSubmissions.BackColor = System.Drawing.Color.Gold
+        Me.btnViewSubmissions.Font = New System.Drawing.Font("Arial", 8.0!, System.Drawing.FontStyle.Bold)
+        Me.btnViewSubmissions.ForeColor = System.Drawing.Color.White
         Me.btnViewSubmissions.Location = New System.Drawing.Point(74, 233)
         Me.btnViewSubmissions.Name = "btnViewSubmissions"
         Me.btnViewSubmissions.Size = New System.Drawing.Size(265, 52)
@@ -41,7 +43,9 @@ Partial Class Form1
         '
         'btnCreateSubmission
         '
-        Me.btnCreateSubmission.BackColor = System.Drawing.Color.SkyBlue
+        Me.btnCreateSubmission.BackColor = System.Drawing.Color.CornflowerBlue
+        Me.btnCreateSubmission.Font = New System.Drawing.Font("Arial", 8.0!, System.Drawing.FontStyle.Bold)
+        Me.btnCreateSubmission.ForeColor = System.Drawing.Color.White
         Me.btnCreateSubmission.Location = New System.Drawing.Point(423, 233)
         Me.btnCreateSubmission.Name = "btnCreateSubmission"
         Me.btnCreateSubmission.Size = New System.Drawing.Size(326, 52)
@@ -51,12 +55,14 @@ Partial Class Form1
         '
         'btnSearchSubmission
         '
-        Me.btnSearchSubmission.BackColor = System.Drawing.Color.LightGreen
+        Me.btnSearchSubmission.BackColor = System.Drawing.Color.MediumSeaGreen
+        Me.btnSearchSubmission.Font = New System.Drawing.Font("Arial", 8.0!, System.Drawing.FontStyle.Bold)
+        Me.btnSearchSubmission.ForeColor = System.Drawing.Color.White
         Me.btnSearchSubmission.Location = New System.Drawing.Point(234, 337)
         Me.btnSearchSubmission.Name = "btnSearchSubmission"
         Me.btnSearchSubmission.Size = New System.Drawing.Size(296, 52)
         Me.btnSearchSubmission.TabIndex = 2
-        Me.btnSearchSubmission.Text = "Search Submission (Ctrl + F)"
+        Me.btnSearchSubmission.Text = "SEARCH SUBMISSION (CTRL + F)"
         Me.btnSearchSubmission.UseVisualStyleBackColor = False
         '
         'Label1
@@ -70,17 +76,20 @@ Partial Class Form1
         'Label3
         '
         Me.Label3.AutoSize = True
-        Me.Label3.Location = New System.Drawing.Point(202, 144)
+        Me.Label3.Font = New System.Drawing.Font("Arial", 12.0!, System.Drawing.FontStyle.Bold)
+        Me.Label3.ForeColor = System.Drawing.Color.DarkSlateGray
+        Me.Label3.Location = New System.Drawing.Point(157, 155)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(340, 16)
+        Me.Label3.Size = New System.Drawing.Size(466, 24)
         Me.Label3.TabIndex = 5
-        Me.Label3.Text = "Swasti Sundar Pradhan , Slidely Task -Slidely Form App"
+        Me.Label3.Text = "Swasti Sundar Pradhan, Slidely Task - Form App"
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.BackColor = System.Drawing.Color.WhiteSmoke
+        Me.ClientSize = New System.Drawing.Size(783, 450)
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.btnSearchSubmission)
@@ -88,7 +97,7 @@ Partial Class Form1
         Me.Controls.Add(Me.btnViewSubmissions)
         Me.KeyPreview = True
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "Main Form"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 

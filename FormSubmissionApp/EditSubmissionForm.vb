@@ -39,4 +39,8 @@ Public Class EditSubmissionForm
             End If
         End Using
     End Sub
+
+    Private Sub EditSubmissionForm_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+    End Sub
 End Class
